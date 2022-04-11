@@ -1,16 +1,20 @@
 *{
 margin: 5px;
 padding: 0;
-
-
 }
 
-.navbar-style 
+.body
 {
-    box-shadow: 10px 10px 30px #85ca98;
+    background-color: #666441;
+}
+
+.navbar-style
+{
+    box-shadow: 10px 10px 30px #b7b9a6;
     border-radius: 35px;
-    border-top-color: #85ca98;
-    background-color: #85ca98;
+    border-top-color: #b7b9a6;
+    background-color: #b7b9a6;
+    
    
 }
 
@@ -21,7 +25,7 @@ width: 75%;
 
 .clearfix
 {
-    background-color: #85ca98;
+    background-color: #b7b9a6;
     padding: 30px 30px 30px 30px;
     border-radius: 35px;
 }
@@ -32,3 +36,18 @@ width: 75%;
     width: 100%;
 }
 
+.pos-f-t
+{
+    background-color:#666441;
+}
+
+.navbar-brand, .nav-link
+{
+    color:#666441; 
+}
+
+.ul, .li
+
+{
+    color:#666441; 
+}
