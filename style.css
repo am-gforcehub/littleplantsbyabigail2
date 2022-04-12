@@ -1,11 +1,7 @@
 *{
 margin: 5px;
 padding: 0;
-}
 
-.body
-{
-    background-color: #666441;
 }
 
 .navbar-style
@@ -33,6 +29,12 @@ width: 75%;
     border-radius: 35px;
 }
 
+.cxt-padded
+{
+    background-color: #b7b9a6;
+    padding: 100px 100px 100px 100px;
+    border-radius: 50px;
+}
 
  .carousel-inner{
     height: 500px;
@@ -49,3 +51,19 @@ width: 75%;
     color:#666441; 
 }
 
+.dropdown-menu > li > a:hover {
+    background-image: none;
+    background-color: #95978a;
+}
+
+.header
+{
+    font-family: Dreaming Outloud Pro;
+    font-size: 75px;
+    color: #e34b50;   
+}
+
+.card
+{
+    display: inline-block;
+}
