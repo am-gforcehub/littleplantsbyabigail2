@@ -60,10 +60,11 @@ width: 75%;
 {
     font-family: Dreaming Outloud Pro;
     font-size: 75px;
-    color: #e34b50;   
+    color: #e34b50;
+    text-align: center;   
 }
 
-.card
+.stage
 {
-    display: inline-block;
+    align-items:stretch;
 }
