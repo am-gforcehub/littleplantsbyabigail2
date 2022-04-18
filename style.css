@@ -14,7 +14,7 @@ padding: 0;
 
 .navbar-navbar
 {
-    background-color: #b7b9a6;
+    background-color: #fafcef;
 }
 
 .img-fluid
@@ -43,17 +43,21 @@ width: 75%;
 
 .pos-f-t
 {
-    background-color:#666441;
+    background-color:#c38b72;
 }
 
 .navbar-brand, .nav-link
 {
-    color:#666441; 
+    color: black; 
 }
 
 .dropdown-menu > li > a:hover {
     background-image: none;
-    background-color: #95978a;
+    background-color: #99c76f;    
+}
+.dropdown-menu
+{
+    background-color: #c38b72;
 }
 
 .header
