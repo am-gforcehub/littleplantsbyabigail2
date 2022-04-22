@@ -51,22 +51,6 @@ padding: 0;
 {
     background-color: #c38b72;
 }
-
-.list-group 
-{
-    align-items: center;
-    background-color: #99c76f;
-    border-color: #99c76f;
-    font-size: 50px;  
-}
-
-.list-group-item
-{
-    align-items: center;
-    background-color: #99c76f;
-    border-color: #99c76f;
-    font-size: 50px;
-}
  
   .footer {
     position: fixed;
