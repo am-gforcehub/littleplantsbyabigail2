@@ -45,28 +45,21 @@ padding: 0;
 
 .dropdown-menu > li > a:hover {
     background-image: none;
-    background-color: #99c76f;    
+    background-color: #c38b72;    
 }
 .dropdown-menu
 {
     background-color: #c38b72;
 }
 
-.header
+.list-group .list-group-item
 {
-    font-family: Dreaming Outloud Pro;
-    font-size: 75px;
-    color: #e34b50;
-    text-align: center;   
-}
-
-.strawberry-bush {  
-    width: 50%; 
-    float: left; 
-    margin-right: 10px; 
+    align-items: center;
+    background-color: #99c76f;
+    border-color: #99c76f;
+    font-size: 50px;
     
-  } 
-
+}
  
   .footer {
     position: fixed;
